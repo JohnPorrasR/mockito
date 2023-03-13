@@ -1,0 +1,6 @@
+prg\jporras\appmonkito\ejemplos\reposotories\ExamenRepository.class
+prg\jporras\appmonkito\ejemplos\services\ExamenService.class
+prg\jporras\appmonkito\ejemplos\services\ExamenServiceImpl.class
+prg\jporras\appmonkito\ejemplos\models\Examen.class
+prg\jporras\appmonkito\ejemplos\reposotories\ExamenRepositoryOtro.class
+prg\jporras\appmonkito\ejemplos\reposotories\PreguntaRepository.class
